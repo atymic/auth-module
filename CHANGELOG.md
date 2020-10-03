@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [4.9.2](https://github.com/nuxt-community/auth-module/compare/v4.9.1...v4.9.2) (2020-10-03)
+
+
+### Bug Fixes
+
+* send secret with grant ([b3b0bb1](https://github.com/nuxt-community/auth-module/commit/b3b0bb1c2608193045e651e3388bf489785c58fc))
+
 ### [4.9.1](https://github.com/nuxt-community/auth-module/compare/v4.9.0...v4.9.1) (2020-04-16)
 
 
